@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marinacompsci
-- 👀 I’m interested in WebDevelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently bulding a webpage for college students to review classes and share information with each other
 - 📫 How to reach me ...
 
