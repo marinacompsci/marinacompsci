@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marinacompsci
-- 👀 I’m interested in Full Stack Web and iOS Development
-- 🌱 I’m currently bulding a webpage(React + Express + MariaDB) for college students to review classes and share information with each other 
-- ✨ I have recently built a webpage with vanilla JS to help me [conjugate verbs in Spanish](https://spanish-webapp.herokuapp.com/)
+- 👀 I'm keen to Full Stack Web and iOS Development
+
 
 
 <!---
