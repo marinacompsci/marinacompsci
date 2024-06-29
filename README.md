@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @marinacompsci
-- 👀 I'm keen to Full Stack Web and iOS Development
-
 
 
 <!---
